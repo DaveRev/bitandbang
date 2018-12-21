@@ -1,20 +1,20 @@
 {
-  "name": "bitandbang",
+  "name": "daverev",
   "version": "1.1.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "description": "A personal card for Dave (@daverev)",
   "main": "index.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "daverev": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/daverev/daverev.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Dave <info@hdev.it> (http://hdev.it)",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
